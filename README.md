@@ -1,3 +1,3 @@
-# Rover Codes
+# Team Vyadh Codes
 
-# Codes mostly for Arduino and Raspberry Pi URC 2019
+# Codes mostly for Arduino and Raspberry Pi
